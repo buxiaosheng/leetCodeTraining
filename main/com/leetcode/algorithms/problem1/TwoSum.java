@@ -2,7 +2,7 @@ package com.leetcode.algorithms.problem1;
 
 import java.util.HashMap;
 
-public class Solution {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> hashTableForInput = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
