@@ -1,6 +1,5 @@
 package com.leetcode.algorithms.problem7;
 
-import com.sun.deploy.util.StringUtils;
 
 public class ReverseInteger {
     public int reverse(int x) {
